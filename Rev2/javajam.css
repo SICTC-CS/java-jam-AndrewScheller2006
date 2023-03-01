@@ -1,0 +1,35 @@
+#wrapper{
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+    background-color: #FEFAEB;
+    min-width: 1000px;
+    max-width: 1280px;
+}
+
+head {
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    background-color: #D2B48C;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #8C3826;
+    font-weight:300;
+}
+h2{
+    font-weight:300;
+    color: #8C3826;
+}
+
+footer{
+  text-align: center;
+  background-color: #D2B48C;  
+}
