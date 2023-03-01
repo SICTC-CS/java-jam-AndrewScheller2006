@@ -1,0 +1,125 @@
+html{
+    background: url(images/fadedroad50.jpg);
+    background-repeat: no-repeat;
+}
+#wrapper{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    width: 80%;
+    background-color: #FEFAEB;
+    min-width: 1000px;
+    max-width: 1280px;
+    border: 5px solid #050000;
+}
+
+head {
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+}
+nav a {
+    text-decoration: none;
+    size: 50px;
+    font-size: 25px;
+    margin: 20px;
+}
+
+
+h1 {
+    text-align: center;
+    background-color: #D2B48C;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: #8C3826;
+    font-weight:300;
+    font-size: 50px;
+}
+h2{
+    font-weight:300;
+    color: #8C3826;
+    padding-left: 30px;
+}
+h3{
+    padding-left: 10px;
+    color: #8C3826;
+    font-weight:300;
+}
+h4 {
+    text-align: center;
+    background-color: #D2B48C;
+    size: 30px;
+    color: #8C3826;
+    font-weight:300;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 3%;
+
+    
+}
+#details{
+    padding-left: 2%;
+    padding-right: 2%;
+    display: block;
+}
+#details img{
+    padding-left: 20%;
+}
+#details p{
+    float: right;
+    padding-right: 40%;
+    padding-top: 5%;
+}
+
+#details2{
+    padding-left: 2%;
+    padding-right: 2%;
+    display: block;
+}
+#details2 img{
+    padding-left: 20%;
+    width: 80px;
+    height: 80%;
+}
+#details2 p{
+    float: right;
+    padding-right: 40%;
+    
+}
+
+footer{
+  text-align: center;
+  background-color: #D2B48C;  
+  margin-top: 60px;
+}
+
+#hero{
+    background: url(images/hero.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 250px;
+}
+
+#heromenu{
+    background: url(images/mugs.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 400px;
+    width: 400px;
+    float: right;
+    margin: 30px;
+    margin-right: 100px;
+}
+
+p{
+    padding-left: 30px;
+}
+dt{
+    padding-left: 30px;
+    color: #8C3826;
+    font-weight:300;
+}
