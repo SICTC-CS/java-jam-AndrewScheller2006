@@ -1,0 +1,153 @@
+* { box-sizing: border-box;}
+
+html{
+    background: url(images/fadedroad50.jpg);
+    background-repeat: no-repeat;
+}
+#wrapper{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    width: 80%;
+    background-color: #FEFAEB;
+    min-width: 1000px;
+    max-width: 1280px;
+    border: 5px solid #050000;
+}
+
+head {
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    float: left;
+    width: 200px;
+    background-color: #231814;
+    background-size: 100%;
+    height: 1000px;
+}
+
+nav a {
+    text-decoration: none;
+    size: 50px;
+    font-size: 25px;
+    margin: 20px;
+    margin-right: 80px;
+    color: #D2B48C;
+}
+
+
+h1 {
+    text-align: center;
+    background-color: #D2B48C;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: #8C3826;
+    font-weight:300;
+    font-size: 50px;
+}
+h2{
+    font-weight:300;
+    color: #8C3826;
+    padding-left: 30px;
+}
+h3{
+    padding-left: 10px;
+    color: #8C3826;
+    font-weight:300;
+}
+h4 {
+    text-align: center;
+    background-color: #D2B48C;
+    size: 30px;
+    color: #8C3826;
+    font-weight:300;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 3%;
+
+    
+}
+#details{
+    padding-left: 2%;
+    padding-right: 2%;
+    display: flex;
+}
+#details img{
+    padding-left: 20%;
+}
+#details p{
+    display: flex;
+    
+}
+
+#details2{
+
+    display: inline-block;
+    margin-left: 215px;
+}
+#details2 p{
+    display: flex;
+    margin-left: 80px;
+}
+
+
+footer{
+  text-align: center;
+  background-color: #D2B48C;  
+  margin-top: 60px;
+}
+footer a{
+    margin-left: 200px;
+}
+
+#hero{
+    background: url(images/hero.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 250px;
+}
+
+#heromugs{
+    background: url(images/coffeelogo.jpg);
+    height: 150px;
+    width: 200px;
+}
+
+#heromenu{
+    background: url(images/mugs.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 250px;
+}
+
+p{
+    padding-left: 30px;
+}
+dt{
+    padding-left: 30px;
+    color: #8C3826;
+    font-weight:300;
+}
+#homehero{
+    background-size: 100%;
+    margin-left: 200px;
+    
+}
+.onethird{
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.text{
+    margin-left: 200px;
+}
+#heromusic{
+    background: url(images/heroguitar.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 250px;
+}
